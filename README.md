@@ -95,9 +95,9 @@
         </section>
         <section>
             <h2>Скриншоты</h2>
-            <img src="assets/vice1.png" alt="Скриншот 1: Неоновые улицы Вайс‑Сити" width="300">
-            <img src="assets/вайс2.webp" alt="Скриншот 2: Томми Версетти у автомобиля" width="300">
-            <img src="assets/вайс3.jpg" alt="Скриншот 3: Вид на город" width="300">
+            <img src="vice1.png" alt="Скриншот 1: Неоновые улицы Вайс‑Сити" width="300">
+            <img src="вайс2.webp" alt="Скриншот 2: Томми Версетти у автомобиля" width="300">
+            <img src="вайс3.jpg" alt="Скриншот 3: Вид на город" width="300">
         </section>
       <h2>Ссылка на википедию</h2>
       <a href="https://ru.wikipedia.org/wiki/Grand_Theft_Auto:_Vice_City">Википедия</a>
